@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+
+img {
+	display: block;
+	height: 200px;
+}
+
+a {
+	display: block;
+	margin: 10px;
+}
